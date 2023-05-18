@@ -1,0 +1,28 @@
+# adapted from https://github.com/dear-github/dear-github/issues/214#issuecomment-1080042519
+name: nightly-release
+
+on:
+  push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+          
+      - name: save current date into context
+        id: date
+        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+      - name: Create zip
+        run: |
+          cd ..
+          find  ${{ github.event.repository.name }} -not -path '*.git*' -print | zip ${{ github.event.repository.name }}/${{ github.event.repository.name }}.zip -@
+          
+      - uses: pyTooling/Actions/releaser@r0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: ${{ env.DATE }}-archive
+          files: ${{ github.event.repository.name }}.zip
