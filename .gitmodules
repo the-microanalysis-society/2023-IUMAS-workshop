@@ -1,0 +1,6 @@
+[submodule "07 NeXL"]
+	path = 07 NeXL
+	url = https://github.com/NicholasWMRitchie/IUMAS.git
+[submodule "04 Kikuchipy"]
+	path = 04 Kikuchipy
+	url = https://github.com/hakonanes/kikuchipy-iumas2023.git
