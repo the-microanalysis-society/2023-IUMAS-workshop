@@ -12,3 +12,9 @@ In advance of the workshop, please download and browse through the files and fol
 ## Schedule
 
 To be added...
+
+## Sponsors
+
+This workshop is sponsored by the [Microanalysis Society](https://the-mas.org/)
+
+[![MAS](https://the-mas.org/wp-content/uploads/2019/07/BannerLogo-300x138.png)](https://the-mas.org/)
