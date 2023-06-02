@@ -4,3 +4,6 @@
 [submodule "04 Kikuchipy"]
 	path = 04 Kikuchipy
 	url = https://github.com/hakonanes/kikuchipy-iumas2023.git
+[submodule "02 Pyxem"]
+	path = 02 Pyxem
+	url = https://github.com/CSSFrancis/PyxemIUMAS
