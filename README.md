@@ -11,7 +11,7 @@ In advance of the workshop, please download, extract, and browse through the fil
 
 ## Schedule
 
-All times are in the local time of Banff, AB (MDT / UTC-06)
+All times are in the local time of Banff, AB (MDT / UTC-06). The workshop will take place in room KC 203 at the Kinnear Centre for Creativity & Innovation. Please see the [IUMAS-8 program](https://437240d9-04a6-445a-9711-50d3e8edf8bd.filesusr.com/ugd/3da633_ddaa6079208547fe9793739a3c82571a.pdf) for more information.
 
 | Time | Speaker/Item | Topic |
 | ---- | ------------ | ----- |
