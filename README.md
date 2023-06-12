@@ -26,7 +26,7 @@ All times are in the local time of Banff, AB (MDT / UTC-06). The workshop will t
 | 1:20 PM - 2:20 PM | [Colin Ophus](https://foundry.lbl.gov/about/staff/colin-ophus/) | [py4DSTEM](https://github.com/py4dstem/py4DSTEM/) |
 | 2:20 PM - 3:00 PM | [Nicholas Ritchie](https://www.nist.gov/people/nicholas-ritchie) | [NeXL](https://pages.nist.gov/NeXLCore.jl/) (Quantitative EDS) |
 | 3:00 PM - 3:20 PM | Break | |
-| 3:20 PM - 4:00 PM | [Sergei Kalinin](https://www.ornl.gov/staff-profile/sergei-v-kalinin) | STEM Machine Learning (remote presentation) |
+| 3:20 PM - 4:00 PM | [Sergei Kalinin](https://mse.utk.edu/people/sergei-v-kalinin/) | STEM Machine Learning (remote presentation) |
 | 4:00 PM - 4:40 PM | [Michael Jackson](https://www.linkedin.com/in/michael-jackson-23605149/) | [DREAM.3D](http://dream3d.bluequartz.net/) (EBSD) |
 | 4:40 PM - 5:20 PM | [Marcus Hanwell](https://www.bnl.gov/staff/mhanwell) | [Tomviz](https://tomviz.org/) (Electron tomography) |
 | 5:20 PM - 5:30 PM | Andy Herzing & Josh Taillon | Closing remarks / Wrap-up |
